@@ -1,0 +1,11 @@
+server/node_modules
+client/node_modules
+client/dist
+server/uploads
+server/.env
+server/data/*.db
+server/data/*.db-shm
+server/data/*.db-wal
+server/backups/*.db
+*.log
+portable
